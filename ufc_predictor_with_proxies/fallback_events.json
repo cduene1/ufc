@@ -1,0 +1,13 @@
+{
+  "fights": [
+    {
+      "fighter1": "Fighter A",
+      "fighter2": "Fighter B",
+      "weight": "Lightweight",
+      "odds": {
+        "fighter1": -120,
+        "fighter2": 100
+      }
+    }
+  ]
+}
